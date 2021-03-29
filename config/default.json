@@ -1,0 +1,5 @@
+{
+    "mongoUri": "mongodb+srv://Mariia:12345@cluster0.6uxkw.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecter":"test work", 
+    "baseUrl": "http:/localhost:3001"
+}
